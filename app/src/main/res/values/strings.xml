@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Footbal Club</string>
+    <string name="no_connection_first">Please check your connection to first open this apps ! "\n" Sankyou :)</string>
+</resources>
